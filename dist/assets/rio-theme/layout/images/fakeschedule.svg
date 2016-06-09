@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="468.512px" height="386.937px" viewBox="0 0 468.512 386.937" enable-background="new 0 0 468.512 386.937"
+	 xml:space="preserve">
+<g>
+	<rect x="0.5" y="0.5" fill="#FFFFFF" stroke="#F1F2F2" stroke-miterlimit="10" width="467.512" height="385.937"/>
+	<g>
+		<path fill="#2BB673" d="M23.492,36.422c-0.146,0.146-0.317,0.22-0.517,0.22c-0.199,0-0.372-0.074-0.517-0.22l-5.145-5.144
+			c-0.144-0.144-0.218-0.316-0.218-0.516c0-0.2,0.074-0.372,0.218-0.518l5.145-5.145c0.145-0.146,0.317-0.218,0.517-0.218
+			c0.2,0,0.371,0.072,0.517,0.218c0.145,0.146,0.218,0.319,0.218,0.518v10.289C23.71,36.105,23.637,36.278,23.492,36.422z"/>
+	</g>
+	<g>
+		<path fill="#2BB673" d="M35.092,35.906V25.618c0-0.199,0.072-0.372,0.218-0.518c0.146-0.146,0.317-0.218,0.517-0.218
+			s0.372,0.072,0.516,0.218l5.146,5.145c0.144,0.146,0.217,0.318,0.217,0.518c0,0.199-0.074,0.372-0.217,0.516l-5.146,5.144
+			c-0.145,0.146-0.317,0.22-0.516,0.22s-0.371-0.074-0.517-0.22C35.165,36.278,35.092,36.105,35.092,35.906z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 55.0542 35.9668)" fill="#2BB673" font-family="'Dosis-SemiBold'" font-size="16">Current Date</text>
+	<text transform="matrix(1 0 0 1 336.1582 35.9668)" fill="#2BB673" font-family="'Dosis-SemiBold'" font-size="16">Month    Week    Day</text>
+	<text transform="matrix(1 0 0 1 177.1895 38.9668)" fill="#003D50" font-family="'Dosis-Medium'" font-size="24">January 2015</text>
+	<rect x="333.512" y="40.604" fill="#2BB673" width="45.375" height="1.083"/>
+	<rect x="17.096" y="67.437" fill="#778D9B" width="59.725" height="27.834"/>
+	<rect x="79.211" y="67.437" fill="#E8E8E8" width="59.725" height="27.834"/>
+	<rect x="141.326" y="67.437" fill="#E8E8E8" width="59.726" height="27.834"/>
+	<rect x="203.441" y="67.437" fill="#E8E8E8" width="59.726" height="27.834"/>
+	<rect x="265.556" y="67.437" fill="#E8E8E8" width="59.726" height="27.834"/>
+	<rect x="327.671" y="67.437" fill="#E8E8E8" width="59.725" height="27.834"/>
+	<rect x="389.787" y="67.437" fill="#778D9B" width="59.725" height="27.834"/>
+	<text transform="matrix(1 0 0 1 36.6685 85.9731)" fill="#FFFFFF" font-family="'Dosis-SemiBold'" font-size="14">Sun</text>
+	<text transform="matrix(1 0 0 1 97.6396 85.9731)" fill="#778D9B" font-family="'Dosis-SemiBold'" font-size="14">Mon</text>
+	<text transform="matrix(1 0 0 1 161.9346 85.9731)" fill="#778D9B" font-family="'Dosis-SemiBold'" font-size="14">Tue</text>
+	<text transform="matrix(1 0 0 1 220.6528 85.9731)" fill="#778D9B" font-family="'Dosis-SemiBold'" font-size="14">Wed</text>
+	<text transform="matrix(1 0 0 1 284.6548 85.9731)" fill="#778D9B" font-family="'Dosis-SemiBold'" font-size="14">Thu</text>
+	<text transform="matrix(1 0 0 1 350.9097 85.9731)" fill="#778D9B" font-family="'Dosis-SemiBold'" font-size="14">Fri</text>
+	<g>
+		<text transform="matrix(1 0 0 1 411.3418 85.9731)" fill="#FFFFFF" font-family="'Dosis-SemiBold'" font-size="14">Sat</text>
+	</g>
+	<g>
+		<path fill="#E8E8E8" d="M75.821,99.437v50H18.096v-50H75.821 M76.821,98.437H17.096v52h59.725V98.437L76.821,98.437z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 55.8086 115.9731)" opacity="0.5" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">29</text>
+	<g>
+		<path fill="#E8E8E8" d="M137.936,99.437v50H80.211v-50H137.936 M138.936,98.437H79.211v52h59.725V98.437L138.936,98.437z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 117.5322 115.9731)" opacity="0.5" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">30</text>
+	<g>
+		<path fill="#E8E8E8" d="M200.051,99.437v50h-57.725v-50H200.051 M201.051,98.437h-59.725v52h59.725V98.437L201.051,98.437z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 183.749 115.9731)" opacity="0.5" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">31</text>
+	<g>
+		<path fill="#E8E8E8" d="M262.166,99.437v50h-57.725v-50H262.166 M263.166,98.437h-59.725v52h59.725V98.437L263.166,98.437z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 252.332 115.9731)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">1</text>
+	<g>
+		<path fill="#E8E8E8" d="M324.281,99.437v50h-57.725v-50H324.281 M325.281,98.437h-59.725v52h59.725V98.437L325.281,98.437z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 311.1431 115.9731)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">2</text>
+	<g>
+		<path fill="#E8E8E8" d="M386.396,99.437v50h-57.725v-50H386.396 M387.396,98.437h-59.725v52h59.725V98.437L387.396,98.437z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 373.0762 115.9731)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">3</text>
+	<g>
+		<path fill="#E8E8E8" d="M448.512,99.437v50h-57.725v-50H448.512 M449.512,98.437h-59.725v52h59.725V98.437L449.512,98.437z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 434.7095 115.9731)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">4</text>
+	<g>
+		<path fill="#E8E8E8" d="M75.779,153.729v50H18.054v-50H75.779 M76.779,152.729H17.054v52h59.725V152.729L76.779,152.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 62.627 170.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">5</text>
+	<g>
+		<path fill="#E8E8E8" d="M137.895,153.729v50H80.169v-50H137.895 M138.895,152.729H79.169v52h59.725V152.729L138.895,152.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 124.1685 170.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">6</text>
+	<g>
+		<path fill="#E8E8E8" d="M200.01,153.729v50h-57.725v-50H200.01 M201.01,152.729h-59.725v52h59.725V152.729L201.01,152.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 187.0679 170.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">7</text>
+	<g>
+		<path fill="#E8E8E8" d="M262.125,153.729v50h-57.725v-50H262.125 M263.125,152.729h-59.725v52h59.725V152.729L263.125,152.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 248.6084 170.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">8</text>
+	<g>
+		<path fill="#E8E8E8" d="M324.24,153.729v50h-57.725v-50H324.24 M325.24,152.729h-59.725v52h59.725V152.729L325.24,152.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 310.5137 170.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">9</text>
+	<g>
+		<path fill="#E8E8E8" d="M386.355,153.729v50H328.63v-50H386.355 M387.355,152.729H327.63v52h59.725V152.729L387.355,152.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 369.437 170.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">10</text>
+	<g>
+		<path fill="#E8E8E8" d="M448.47,153.729v50h-57.725v-50H448.47 M449.47,152.729h-59.725v52h59.725V152.729L449.47,152.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 434.6543 170.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">11</text>
+	<g>
+		<path fill="#E8E8E8" d="M75.821,208.437v50H18.096v-50H75.821 M76.821,207.437H17.096v52h59.725V207.437L76.821,207.437z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 59.7007 224.9731)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">12</text>
+	<g>
+		<path fill="#1C75BC" d="M137.936,208.437v50H80.211v-50H137.936 M138.936,207.437H79.211v52h59.725V207.437L138.936,207.437z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 121.6338 224.9731)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">13</text>
+	<g>
+		<path fill="#E8E8E8" d="M200.051,208.437v50h-57.725v-50H200.051 M201.051,207.437h-59.725v52h59.725V207.437L201.051,207.437z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 184.2671 224.9731)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">14</text>
+	<g>
+		<g>
+			<path fill="#E8E8E8" d="M262.166,208.437v50h-57.725v-50H262.166 M263.166,207.437h-59.725v52h59.725V207.437L263.166,207.437z"
+				/>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 246.0322 224.9731)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">15</text>
+	</g>
+	<g>
+		<path fill="#E8E8E8" d="M324.281,208.437v50h-57.725v-50H324.281 M325.281,207.437h-59.725v52h59.725V207.437L325.281,207.437z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 307.5732 224.9731)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">16</text>
+	<g>
+		<path fill="#E8E8E8" d="M386.396,208.437v50h-57.725v-50H386.396 M387.396,207.437h-59.725v52h59.725V207.437L387.396,207.437z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 370.4727 224.9731)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">17</text>
+	<g>
+		<path fill="#E8E8E8" d="M448.512,208.437v50h-57.725v-50H448.512 M449.512,207.437h-59.725v52h59.725V207.437L449.512,207.437z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 431.0137 224.9731)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">18</text>
+	<g>
+		<path fill="#E8E8E8" d="M75.779,262.729v50H18.054v-50H75.779 M76.779,261.729H17.054v52h59.725V261.729L76.779,261.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 59.0713 279.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">19</text>
+	<g>
+		<path fill="#E8E8E8" d="M137.895,262.729v50H80.169v-50H137.895 M138.895,261.729H79.169v52h59.725V261.729L138.895,261.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 117.6724 279.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">20</text>
+	<g>
+		<path fill="#E8E8E8" d="M200.01,262.729v50h-57.725v-50H200.01 M201.01,261.729h-59.725v52h59.725V261.729L201.01,261.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 183.8896 279.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">21</text>
+	<g>
+		<path fill="#E8E8E8" d="M262.125,262.729v50h-57.725v-50H262.125 M263.125,261.729h-59.725v52h59.725V261.729L263.125,261.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 242.7002 279.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">22</text>
+	<g>
+		<path fill="#E8E8E8" d="M324.24,262.729v50h-57.725v-50H324.24 M325.24,261.729h-59.725v52h59.725V261.729L325.24,261.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 304.6338 279.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">23</text>
+	<g>
+		<path fill="#E8E8E8" d="M386.355,262.729v50H328.63v-50H386.355 M387.355,261.729H327.63v52h59.725V261.729L387.355,261.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 367.2671 279.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">24</text>
+	<g>
+		<path fill="#E8E8E8" d="M448.47,262.729v50h-57.725v-50H448.47 M449.47,261.729h-59.725v52h59.725V261.729L449.47,261.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 428.0322 279.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">25</text>
+	<g>
+		<path fill="#E8E8E8" d="M75.779,316.729v50H18.054v-50H75.779 M76.779,315.729H17.054v52h59.725V315.729L76.779,315.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 55.7671 333.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">26</text>
+	<g>
+		<path fill="#E8E8E8" d="M137.895,316.729v50H80.169v-50H137.895 M138.895,315.729H79.169v52h59.725V315.729L138.895,315.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 118.6665 333.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">27</text>
+	<g>
+		<path fill="#E8E8E8" d="M200.01,316.729v50h-57.725v-50H200.01 M201.01,315.729h-59.725v52h59.725V315.729L201.01,315.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 180.2075 333.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">28</text>
+	<g>
+		<path fill="#E8E8E8" d="M262.125,316.729v50h-57.725v-50H262.125 M263.125,315.729h-59.725v52h59.725V315.729L263.125,315.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 242.1123 333.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">29</text>
+	<g>
+		<path fill="#E8E8E8" d="M324.24,316.729v50h-57.725v-50H324.24 M325.24,315.729h-59.725v52h59.725V315.729L325.24,315.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 303.8359 333.2646)" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">30</text>
+	<g>
+		<path fill="#E8E8E8" d="M386.355,316.729v50H328.63v-50H386.355 M387.355,315.729H327.63v52h59.725V315.729L387.355,315.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 376.521 333.2646)" opacity="0.5" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">1</text>
+	<g>
+		<path fill="#E8E8E8" d="M448.47,316.729v50h-57.725v-50H448.47 M449.47,315.729h-59.725v52h59.725V315.729L449.47,315.729z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 434.332 333.2646)" opacity="0.5" fill="#778D9B" font-family="'Dosis-Medium'" font-size="14">2</text>
+	<g>
+		<rect x="206.012" y="173.437" fill="#FBB040" width="178" height="28.25"/>
+	</g>
+	<text transform="matrix(1 0 0 1 213.0537 192.4683)" fill="#FFFFFF" font-family="'Dosis-Medium'" font-size="14">Monthly Dealers Meeting</text>
+	<g>
+		<rect x="82.188" y="336.437" fill="#FBB040" width="115.573" height="28.25"/>
+	</g>
+	<text transform="matrix(1 0 0 1 89.2305 355.4683)" fill="#FFFFFF" font-family="'Dosis-Medium'" font-size="14">Visitors Reporting</text>
+</g>
+</svg>
