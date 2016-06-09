@@ -1,0 +1,30 @@
+<div class="Container100 ui-fluid">
+  <div class="ContainerIndent">
+    <div class="Card ShadowEffect HeiAutoOnMobile">
+
+      <button pButton type="button" class="GreenButton" (click)="newUser()"
+              label="Add new user" icon="fa fa-user-plus"></button>
+
+      <div class="Separator"></div>
+
+      <p-dataTable [value]="users" [rows]="args.per_page" [totalRecords]="service.totalObjects"
+                   [paginator]="true" [lazy]="true" (onLazyLoad)="loadUsersLazy($event)"
+                   selectionMode="single" (onRowSelect)="onRowSelect($event)">
+        <header>
+          <div class="ui-widget-header ui-helper-clearfix">
+            <input type="text" pInputText placeholder="Search Users"
+                   (keyup.enter)="search($event)">
+          </div>
+        </header>
+
+        <p-column field="name" header="Name"></p-column>
+        <p-column field="description" header="Job Title"></p-column>
+        <p-column field="_roles" header="Role"></p-column>
+        <p-column field="_email" header="Email"></p-column>
+        <p-column field="_registered" header="Date registered"></p-column>
+        <footer>Total Users: {{service.totalObjects}}</footer>
+      </p-dataTable>
+
+    </div>
+  </div>
+</div>
