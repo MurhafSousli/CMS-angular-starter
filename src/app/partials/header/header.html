@@ -1,0 +1,82 @@
+<div id="layout-topbar">
+  <div id="logo" class="Fleft">
+    <a href="#" class="White">
+      <img [src]="logo" class="Fleft"/> <p class="logo-title">SOA Project</p>
+    </a>
+    <a id="mobile-menu-button" class="Fright ShowOnMobile ripplelink Unselectable ShadowEffect"
+      (click)="toggleMenu = !(toggleMenu)" [class.MenuClose]="toggleMenu">
+      <span class="ink animate"></span>
+      <i class="icon-add186"></i>
+    </a>
+  </div>
+
+  <a class="ripplelink WhiteBlue Fright ShowOnMobile" id="show-top-menu" (click)="toggleToolbar = !(toggleToolbar)">
+    <i class="icon-show8"></i>
+  </a>
+
+  <!-- Toolbar Menu -->
+  <ul id="top-menu"
+      class="ShowOnDesktop"
+      [class.showmenu]="toggleToolbar">
+    <li>
+      <a class="ripplelink"><i class="icon-search100"></i> <span class="Txt">Search</span></a>
+      <ul>
+        <li><input type="text" placeholder="Search"/></li>
+      </ul>
+    </li>
+    <li>
+      <a class="ripplelink"><i class="icon-set6"></i> <span class="Txt">Tasks</span></a>
+      <ul>
+        <li><a href="#">23 New Tasks</a></li>
+      </ul>
+    </li>
+    <li>
+      <a class="ripplelink"><i class="icon-notifications1"></i> <span class="Txt">Alerts</span></a>
+      <ul>
+        <li><a href="#">18 Alerts</a></li>
+      </ul>
+    </li>
+    <li><a href="#" class="ripplelink"><i class="icon-wifi83"></i> <span class="Txt">System Settings</span></a></li>
+  </ul>
+</div>
+
+<div id="wrapper">
+  <div id="wrapperIndent">
+
+    <!-- Menu -->
+    <div class="Animated05" [class.showmenu]="toggleMenu" id="layout-menu-cover">
+      <ul class="layout-menu">
+        <li [class.active-menu-parent]="toggleProfile">
+          <a class="menulink ripplelink" (click)="toggleProfile = !(toggleProfile)" [class.active-menu]="toggleProfile">
+            <i class="icon-round58 Fs40"></i>
+            <span class="Fs18">{{authService?.user?.user_display_name}}<i
+              class="icon-downwards Fright Fs20"></i><br><span *ngIf="authService.user" class="Fs12 FontRobotoLight">{{authService?.user?.description}}</span></span>
+          </a>
+          <ul [class.active-menu]="toggleProfile">
+            <li><a (click)="profile()" class="menulink ripplelink"><i class="icon-user158 Fs16"></i> User Profile</a></li>
+            <li><a (click)="logout()" class="menulink ripplelink"><i class="icon-thermostat1 Fs16"></i> Logout</a></li>
+          </ul>
+        </li>
+      </ul>
+
+      <div class="Separator"></div>
+      <ul class="layout-menu rio-menu">
+        <li role="menuitem" class="active-menu-parent">
+          <a class="menulink ripplelink" router-active [routerLink]="['Index']">
+            <i class="icon-ellipsis1"></i><i class="icon-planet29"></i>Home</a>
+        </li>
+
+        <li role="menuitem"><a class="menulink ripplelink" router-active [routerLink]="['Users']">
+          <i class="icon-ellipsis1"></i><i class="icon-users"></i>Manage Users</a></li>
+
+        <li role="menuitem"><a class="menulink ripplelink" router-active [routerLink]="['Author']">
+          <i class="icon-ellipsis1"></i><i class="fa fa-umbrella Red"></i>Author Page</a></li>
+
+        <li role="menuitem"><a class="menulink ripplelink" router-active [routerLink]="['About']">
+          <i class="icon-ellipsis1"></i><i class="icon-receipt9"></i>About</a></li>
+
+        <li class="Separator"></li>
+      </ul>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,37 @@
+<div class="full-page">
+  <div class="loginbodyblue">
+    <div class="Wid90 DispBlock MarAuto MarTopPerc5 TexAlCenter">
+      <div class="Wid33 MarAuto WidAutoOnMobile">
+        <form (ngSubmit)="login()">
+          <div class="EmptyBox30"></div>
+          <div class="Card ShadowEffect">
+            <div class="EmptyBox20"></div>
+            <img [src]="logo" style="width:40%; max-width:200px;">
+            <div class="EmptyBox20"></div>
+            <div class="Wid100">
+              <input pInputText id="username" type="text" placeholder="Username"
+                     [disabled]="appState.state.busy" [(ngModel)]="username" required
+                     class="Wid80 TexAlCenter Fs18 ui-inputtext ui-widget ui-state-default ui-corner-all">
+            </div>
+            <div class="EmptyBox10"></div>
+            <div class="Wid100">
+              <input pInputText id="password"  type="password" placeholder="Password"
+                     [disabled]="appState.state.busy" [(ngModel)]="password" required
+                     class="Wid80 TexAlCenter Fs18 ui-inputtext ui-widget ui-state-default ui-corner-all">
+            </div>
+            <div class="EmptyBox30"></div>
+            <p-checkbox [(ngModel)]="remember"></p-checkbox>
+            <label class="ui-chkbox-label">Remember me</label>
+            <div class="EmptyBox30"></div>
+            <div class="Wid100">
+              <p-messages class="Wid80" [(value)]="msgs"></p-messages>
+              <button *ngIf="!appState.state.busy" pButton type="submit" label="Sign In" icon="fa-sign-in" class="Wid60 Fs18"></button>
+              <svg-loader [hidden]="!appState.state.busy" [src]="loadingSvg" [fillColor]="'#0288D1'"></svg-loader>
+            </div>
+            <div class="EmptyBox30"></div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

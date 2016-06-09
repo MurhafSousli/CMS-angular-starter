@@ -1,0 +1,164 @@
+/* colors */
+@body-bgcolor: #F5F5F5;
+@blue-body-border-top-color: #0288D1;
+@blue-body-bgcolor: #0288D1;
+@orange-body-border-top-color: #FB8C00;
+@orange-body-bgcolor: #FB8C00;
+@red-body-border-top-color: #E53935;
+@red-body-border-bgcolor: #E53935;
+@topbar-bgcolor: #03A9F4;
+@logo-bgcolor: #0288D1;
+@logo-border-right-color: #0277BD;
+
+@sidemenu-toggler-collapsed-bgcolor: #039BE5;
+@sidemenu-toggler-collapsed-bgcolor-focus: #0288D1;
+@sidemenu-toggler-collapsed-color: #ffffff;
+@sidemenu-toggler-expanded-bgcolor: #EF5350;
+@sidemenu-toggler-expanded-color: #ffffff;
+
+@top-menu-link-color: #E1F5FE;
+@top-menu-link-color-hover: #039BE5;
+@top-menu-input-border-bottom-color: #E1F5FE;
+@top-menu-input-placeholder-color: #E1F5FE;
+@top-menu-nested-link-color: #E1F5FE;
+@top-menu-nested-link-border-bottom-color: #E1F5FE;
+@top-menu-toggler-color: #E1F5FE;
+@top-menu-toggler-color-hover: #039BE5;
+@top-menu-toggler-color-active: #039BE5;
+
+@sidebar-border-right-color: #E0E0E0;
+@sidemenu-link-color: #455A64;
+@sidemenu-active-submenu-bgcolor: #F5F5F5;
+@sidemenu-active-menuitem-link-bgcolor: #E0E0E0;
+@sidemenu-menuitem-link-color-interact: #E0E0E0;
+@sidemenu-nested-menuitem-link-color-focus: #03A9F4;
+
+@card-bgcolor: #ffffff;
+@card-color: #546E7A;
+@card-topic-color: #546E7A;
+@card-footer-border-top-color: #E0E0E0;
+@card-footer-button-bgcolor-hover: #F5F5F5;
+
+@separator-border-bottom-color: #E0E0E0;
+
+@mobile-top-menu-bgcolor: #ffffff;
+@mobile-top-menu-root-link-color: #546E7A;
+@mobile-top-menu-root-link-bgcolor-interact: #E0E0E0;
+@mobile-top-menu-active-submenu-bgcolor: #F5F5F5;
+@mobile-top-menu-input-border-bottom-color: #E0E0E0;
+@mobile-top-menu-input-color: #546E7A;
+@mobile-top-menu-input-placeholder-color: #546E7A;
+@mobile-top-menu-nested-link-color: #546E7A;
+@mobile-top-menu-nested-link-color-interact: #E0E0E0;
+
+@mobile-sidebar-border-bottom-color: #E0E0E0;
+
+/* fonts */
+@sidemenu-toggler-font-size: 28px;
+@top-menu-link-font-size: 28px;
+@top-menu-input-font-size: 16px;
+@top-menu-toggler-font-size: 28px;
+@sidemenu-menuitem-font-size: 18px;
+@sidemenu-menuitem-icon-font-size: 23px;
+@sidemenu-nested-menuitem-font-size: 15px;
+@sidemenu-nested-menuitem-icon-font-size: 14px;
+@card-topic-font-size: 15px;
+@card-footer-button-font-size: 24px;
+@bigtopic-font-size: 24px;
+
+@mobile-top-menu-link-font-size: 14px;
+@mobile-top-menu-link-icon-font-size: 18px;
+@mobile-top-menu-input-font-size: 14px;
+@mobile-top-menu-nested-link-font-size: 13px;
+@mobile-top-menu-toggler-font-size: 28px;
+
+@mobile-sidemenu-toggler-font-size: 22px;
+@mobile-small-top-menu-toggler-font-size: 22px;
+
+/* misc */
+@ie9-10: ~"screen and (min-width: 0\0)";
+
+.short-transition {
+    .transition(all 0.3s ease);
+}
+
+.medium-transition {
+    .transition(all 0.5s ease);
+}
+
+.long-transition {
+    .transition(all 1.2s ease);
+}
+
+.no-transition {
+    .transition(none);
+}
+
+.transition(@value) {
+    -webkit-transition: @value; 
+    -moz-transition: @value; 
+    -ms-transition: @value; 
+    -o-transition: @value; 
+    transition: @value;
+}
+
+/* predefined colors */
+.White{color:#ffffff;}
+
+.WhiteBlue{color:#E1F5FE;}
+.SoftBlue{color:#03A9F4;}
+.Blue{color:#0288D1;}
+.Turquoise{color:#26C6DA;}
+
+.SoftGray{color:#ECEFF1;}
+.Gray{color:#90A4AE;}
+.BoldGray{color:#546E7A;}
+
+.SoftOrange{color:#FFCC80;}
+.Orange{color:#FB8C00;}
+
+.SoftGreen{color:#A5D6A7;}
+.Green{color:#43A047;}
+.LeadenGreen{color:#26A69A;}
+
+.SoftRed{color:#EF9A9A;}
+.Red{color:#E53935;}
+.Pink{color:#FF4081;}
+
+.SoftPurple{color:#CE93D8;}
+.Purple{color:#8E24AA;}
+
+.Yellow{color:#F7D100;}
+
+/* predefined background colors */
+.WhiteBlueBack{background-color:#E1F5FE;}
+.SoftBlueBack{background-color:#03A9F4;}
+.BlueBack{background-color:#0288D1;}
+.TurquoiseBack{background-color:#26C6DA;}
+
+.SoftGrayBack{background-color:#ECEFF1;}
+.GrayBack{background-color:#90A4AE;}
+.BoldGrayBack{background-color:#546E7A;}
+
+.SoftOrangeBack{background-color:#FFCC80;}
+.OrangeBack{background-color:#FB8C00;}
+
+.SoftGreenBack{background-color:#A5D6A7;}
+.GreenBack{background-color:#43A047;}
+.LeadenGreenBack{background-color:#26A69A;}
+
+.SoftRedBack{background-color:#EF9A9A;}
+.RedBack{background-color:#E53935;}
+.PinkBack{background-color:#FF4081;}
+
+.SoftPurpleBack{background-color:#CE93D8;}
+.PurpleBack{background-color:#8E24AA;}
+
+.YellowBack{background-color:#F7D100;}
+
+/* predefined borders */
+.BorderTop{border-top:solid 1px #E0E0E0;}
+.BorderRight{border-right:solid 1px #E0E0E0;}
+.BorderBottom{border-bottom:solid 1px #E0E0E0;}
+.BorderLeft{border-left:solid 1px #E0E0E0;}
+.BorderAll{border:solid 1px #E0E0E0;}
