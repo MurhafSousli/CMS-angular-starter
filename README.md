@@ -30,8 +30,6 @@ The current demo will connect to the localhost server where I was testing it. yo
 
 It is all about WP API, I use **Pods** plugin to extend the API functionality easily and make relations between tables.
 
-I want to note that I'm currently working on other projects, but I will provide more information, updates and improvements to this repo if it gets more attention.
+I want to note that I'm currently working on other projects, but I will add more information, updates and improvements to this repo if it gets more attention.
 
-Ask me anything via email murhafsousli@gmail.com, or DM me on twitter (@MurhafSousli)[https://twitter.com/MurhafSousli]
-
-Have a nice day.
+Ask me anything via email murhafsousli@gmail.com, or DM me on twitter [@MurhafSousli](https://twitter.com/MurhafSousli)
